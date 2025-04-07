@@ -10,6 +10,7 @@ Koneksi internet untuk mengakses CDN Bootstrap dan jsPDF.
 
 # Instalasi
 Buka link berikut untuk menuju halaman web : 
+https://noviana23.github.io/Laporan-Keuangan-Harian-NovianaEngelica/
 
 Isi data keuangan laporan harian berdasarkan kriteria :
 
